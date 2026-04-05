@@ -22,7 +22,7 @@ from flask_socketio import SocketIO, emit
 
 HEADER    = 64
 PORT      = 8080                     # socket server port
-SERVER    = "192.168.31.247"              # socket server IP
+SERVER    = "securechat.meetitaliya.me"              # socket server IP
 FORMAT    = 'utf-8'
 CERT_FILE = "cert.pem"
 
